@@ -1,11 +1,11 @@
 # BitwiseExamples
-This is a collection of examples of Bitwise operations in Java 
+This is a collection of examples of bitwise operations in Java 
 such as:
 
-*Negation
+* Negation
 
-*Arithmetic/Logical Shift Left
+* Arithmetic/Logical Shift Left
 
-*Arithmetic Shift Right
+* Arithmetic Shift Right
 
-*Logical Shift Right
+* Logical Shift Right
