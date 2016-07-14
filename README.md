@@ -1,12 +1,11 @@
 # BitwiseExamples
-This is a collection of examples of bitwise operations in Java 
-such as
+This is a collection of examples of bitwise operations in Java
+
+##Negation
 ```
 NOT 10101011
   = 01010100
 ```
-##Negation
-
 ##Arithmetic/Logical Shift Left
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rotate_left_logically.svg/210px-Rotate_left_logically.svg.png)
 ##Arithmetic Shift Right
