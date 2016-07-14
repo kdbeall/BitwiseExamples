@@ -5,11 +5,11 @@ such as:
 * Negation
 
 * Arithmetic/Logical Shift Left
-  ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Rotate_left_logically.svg.png)
+* ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Rotate_left_logically.svg.png)
 * Arithmetic Shift Right
-  ![ASR](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rotate_right_arithmetically.svg/175px-Rotate_right_arithmetically.svg.png)
+* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rotate_right_arithmetically.svg/175px-Rotate_right_arithmetically.svg.png)
 * Logical Shift Right
-  ![LSR](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rotate_right_logically.svg/210px-Rotate_right_logically.svg.png)
+* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rotate_right_logically.svg/210px-Rotate_right_logically.svg.png)
 
 #Setup
 The easiest way to use this example is to import it
